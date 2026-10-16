@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "prog-1dawb-2627"
+assignment: "u1-m15-m16-venv-pytest"
+owner:
+  username: "jprizam1212"
+  id: 330934025
+  accepted_at: "2026-10-09T11:32:43Z"
+source:
+  owner: "IES-Rafael-Alberti"
+  owner_id: 79144080
+  repo: "u1-m15-m16-venv_pytest"
+  branch: "main"
